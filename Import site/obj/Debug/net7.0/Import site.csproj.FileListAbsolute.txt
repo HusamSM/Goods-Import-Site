@@ -1,0 +1,30 @@
+C:\Users\PC\Desktop\website\Import site\Import site\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PC\Desktop\website\Import site\Import site\bin\Debug\net7.0\appsettings.json
+C:\Users\PC\Desktop\website\Import site\Import site\bin\Debug\net7.0\Import site.staticwebassets.runtime.json
+C:\Users\PC\Desktop\website\Import site\Import site\bin\Debug\net7.0\Import site.exe
+C:\Users\PC\Desktop\website\Import site\Import site\bin\Debug\net7.0\Import site.deps.json
+C:\Users\PC\Desktop\website\Import site\Import site\bin\Debug\net7.0\Import site.runtimeconfig.json
+C:\Users\PC\Desktop\website\Import site\Import site\bin\Debug\net7.0\Import site.dll
+C:\Users\PC\Desktop\website\Import site\Import site\bin\Debug\net7.0\Import site.pdb
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\Import site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\Import site.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\Import site.AssemblyInfo.cs
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\Import site.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\Import site.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\Import site.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\Import site.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\staticwebassets\msbuild.Import site.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\staticwebassets\msbuild.build.Import site.props
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Import site.props
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Import site.props
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\scopedcss\bundle\Import site.styles.css
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\scopedcss\projectbundle\Import site.bundle.scp.css
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\Import site.dll
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\refint\Import site.dll
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\Import site.pdb
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\Import site.genruntimeconfig.cache
+C:\Users\PC\Desktop\website\Import site\Import site\obj\Debug\net7.0\ref\Import site.dll
